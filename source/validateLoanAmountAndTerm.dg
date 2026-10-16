@@ -1,0 +1,11 @@
+// Loan Applications: Created or Edited, Validations on form submission
+if(input.Loan_Amount <= 0)
+{
+    alert "Loan amount must be greater than zero.";
+    cancel submit;
+}
+if(input.Term_Months < 6 || input.Term_Months > 60)
+{
+    alert "Term must be between 6 and 60 months.";
+    cancel submit;
+}
