@@ -1,0 +1,5 @@
+Application Reference,Applicant Name,Email,Loan Amount INR,Term Months,Application Date,Status,Branch
+LAB-001,Demo Applicant 01,demo01@example.com,150000,24,2026-10-15,Submitted,
+LAB-002,Demo Applicant 02,demo02@example.com,300000,36,2026-10-16,Under Review,
+LAB-003,Demo Applicant 03,demo03@example.com,450000,48,2026-10-16,Reviewed,
+LAB-004,Demo Applicant 04,demo04@example.com,200000,24,2026-10-16,Submitted,Chennai Demo Branch
